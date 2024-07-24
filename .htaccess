@@ -1,0 +1,23 @@
+RewriteEngine on
+
+RewriteRule ^home$ index.php [NC,L]
+
+RewriteRule ^gallery$ gallery.php [NC,L]
+
+RewriteRule ^video$ video.php [NC,L]
+
+RewriteRule ^contactus$ contact.php [NC,L]
+
+RewriteRule ^book$ bookNow.php [NC,L]
+
+RewriteRule ^about$ about.php [NC,L]
+
+RewriteRule ^pricing$ pricing.php [NC,L]
+
+RewriteRule ^terms$ terms.php [NC,L]
+
+RewriteRule ^privacy$ privacy.php [NC,L]
+
+RewriteRule ^services$ services.php [NC,L]
+
+RewriteRule ^technology$ technology.php [NC,L]

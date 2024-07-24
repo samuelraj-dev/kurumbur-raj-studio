@@ -1,0 +1,7 @@
+/vendor/
+.env
+node_modules/
+*.log
+nohup.out
+googlefc27a45e43a0529f.html
+default.php.bak
